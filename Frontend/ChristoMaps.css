@@ -1,0 +1,10 @@
+.maps-canvas-holder {
+	height: 700px;
+}
+
+.form-group textarea {
+	margin: 5px;
+	resize: none;
+	width: 97%;
+	min-height: 300px;
+}
